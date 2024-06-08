@@ -1,0 +1,11 @@
+streamlit
+langchain
+pinecone-client
+--upgrade pinecone-client
+openai
+google-generativeai
+langchain-google-genai
+--upgrade langchain-google-genai
+pypdf
+unstructured
+python-dotenv
