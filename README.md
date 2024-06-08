@@ -13,6 +13,7 @@ The implementation follows the basic principles of a RAG Model:
 - Integration Framework - LangChain
 - Embedding Model - OpenAI Text Embedding 3 Small
 - LLMs - OpenAI GPT-3.5-turbo-0125, Google Gemini Pro
+- Vector Database - Pinecone
 - Front End - Streamlit 
 
 ## Environment Setup 🛠️
